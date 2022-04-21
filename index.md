@@ -10,10 +10,10 @@ Headers for data management plan
 3.	Qualitative data. We will be collecting survey and interview data during studies. We will collect survey data in the form of printed forms that will be filled out during each play session by a parent or guardian. Interviews will be conducted in a semi-structured fashion and captured either with audio or video recordings which will be stored and analyzed later. 
   In addition to human-subjects data, we also will be collecting data on the robot while it is moving which will be used to further develop the algorithms which control the robot. This data will be in the form of logs of each action the robot performs and when so that it can be matched up to video data. Additionally, we have simulated data of child-robot interaction which generate text files of each action performed and how successful it was at encouraging motion in the simulated child.
 
-For the video data, we anticipate collecting 10-50 GBs.
-For the accelerometer data, we anticipate collecting up to 1-5 GBs worth of data.
-For the survey data, we expect to collect in the 1-10 GBs range of data due mainly to the interview recordings. The rest will be low impact.
-For data collected by the robot and simulated data, we anticipate about 100 MB worth of data.
+* For the video data, we anticipate collecting 10-50 GBs.
+* For the accelerometer data, we anticipate collecting up to 1-5 GBs worth of data.
+* For the survey data, we expect to collect in the 1-10 GBs range of data due mainly to the interview recordings. The rest will be low impact.
+* For data collected by the robot and simulated data, we anticipate about 100 MB worth of data.
 
 roles and responsibilities
 data standards and metadata
