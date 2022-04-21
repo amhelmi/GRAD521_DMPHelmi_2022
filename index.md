@@ -15,8 +15,8 @@ Headers for data management plan
 * For the survey data, we expect to collect in the 1-10 GBs range of data due mainly to the interview recordings. The rest will be low impact.
 * For data collected by the robot and simulated data, we anticipate about 100 MB worth of data.
 
-roles and responsibilities
-data standards and metadata
-storage and security
-access and data sharing
-archiving and preservation
+# Roles and Responsibilities
+# Data Standards and Metadata
+# Storage and Security
+# Access and Data Sharing
+# Archiving and Preservation
