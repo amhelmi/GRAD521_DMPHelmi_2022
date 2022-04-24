@@ -1,9 +1,10 @@
 ##### Table of Contents  
-[Headers](#headers)  
-[Emphasis](#emphasis)  
-...snip...    
-<a name="headers"/>
-## Headers
+[Data Description](#datadescription)  
+[Roles and Responsibilities](#roles)
+[Data Standards and Metadata](#datastandards)
+[Storage and Security](#storage)
+[Access and Data Sharing](#access)
+[Archiving and Preservation](#archiving)
 
 # Data Description
 
