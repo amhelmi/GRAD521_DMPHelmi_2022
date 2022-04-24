@@ -1,11 +1,3 @@
-##### Table of Contents  
-[Data Description](#datadescription)  
-[Roles and Responsibilities](#roles)
-[Data Standards and Metadata](#datastandards)
-[Storage and Security](#storage)
-[Access and Data Sharing](#access)
-[Archiving and Preservation](#archiving)
-
 # Data Description
 
  My research in robotics centers on child-robot interaction and how robots can help children with motor impairments receive the benefits that come with motor exploration and play. For children with motor impairments, they tend to be delayed in motor milestones such as crawling, walking, and running but an assistive robot may be a fun and more ideal way for children to practice motor skills. Studies have shown that treadmill training or similar types of interventions can promote early motor skills for children with motor impairments, but they can be boring and quite intense. Our assistive robot is combined with a body-weight support harness which allows supported but free motion for a child in a play space. The two combined means the assistive robot is a motivational tool that the child can chase around and play with while practicing crawling and walking skills. Our main research question is how well can an assistive robot encourage motor exploration and development in children with or without disabilities?
