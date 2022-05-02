@@ -24,6 +24,12 @@ Data will be stored in a protected Google Drive which can only be accessed by me
 There will be 2 copies of the data. One will be stored in google drive as the primary while the backups will live on password protected hard drives. This process is manual and the management of the Google Drive is also manual. We will be using no programs specifically to backup the data, only manual file transferring. We will be using a cloud system but the primary manager is the PI. The PI will ensure that data is transferred over through a graduate or undergraduate student when one leaves. This ensures that the data isn’t lost to an account that is deleted by the OSU system. 
 
 # Data Standards and Metadata
+
+A. Data will be organized and labeled the same in both the google drive and local storage. At a high level, the project can be broken down by paper and grant related to the paper (i.e. Caplan or Infant Behavior Modeling). Within each high-level folder, subdivisions breaking down individual papers related to the grant will be useful. Witin each paper, files can be separated into elements such as data or figures or reading. Files will be labeled with date of creation and descriptive text of the file. Because we collect video files as well, data will be stored by date and camera location with descriptive text labeling which aspect of the study the video is from (e.g., baseline_session1_front_canon).
+B. Version control will be done through github for all software. This will allow software to be more easily accessible. Branches will only be created if the same data or tool is being used for a different purpose and will differ significantly from the original structure. 
+C. Direct metadata other than video metadata will not be collected but documentation of study design and methods will be stored as part of each study. Each design document is created before the study and stored for future reference. The video metadata is used for reference when writing papers which involve recording or use of video data but it is not an essential aspect. 
+D. Video metadata will be collected from the camera using Wondershare Filmora or similar video software. Only necessary aspects are recording framerate and date/time of recording. Other metadata such as study design are stored in microsoft word or google drive documents. 
+
 # Storage and Security
 # Access and Data Sharing
 # Archiving and Preservation
