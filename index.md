@@ -33,6 +33,23 @@ C. Direct metadata other than video metadata will not be collected but documenta
 
 D. Video metadata will be collected from the camera using Wondershare Filmora or similar video software. Only necessary aspects are recording framerate and date/time of recording. Other metadata such as study design are stored in microsoft word or google drive documents. 
 
-# Storage and Security
-# Access and Data Sharing
-# Archiving and Preservation
+# Sharing and Preservation
+There are factors which limit availability of my data. The primary data collected is video data on a vulnerable population so it is important to understand how this data can be shared. Based on our informed consent signed by the participant's parent or guardian, data may or may not be publically available. We are not intending to make the full video data publically available initially to ensure the safety and anonymity of our participants but we may use clips and images in presentations that could be made publically available. The restricted data is stored on an OSU secure server and may only be accessed by members of the team who have completed the necessary IRB training for working with human participants. This access is controlled by the research team, including myself and the PI. We may make some of the video data publically available as a dataset which can be used by others in the future but only for participants whose parent or guardian signed off on the informed consent.
+
+Accelerometer data may be made publically available as it can be easily anonymized. This data may be used for machine learning purposes by a research team and making it publically available for benchmarking is important to the research community.
+
+Subjective data such as interview and survey data will not be made public and is only accessible by members of the research team who have completed the necessary IRB training for working with human participants. We will likely publish quotes from interview data in research publications but they will always be anonymized. 
+
+2. If you are going to make data publicly available describe
+
+when you will make it publicly available.
+how and where you will make data publicly available
+data formats that will be used for making data available.
+what will be the policies governing the reuse, redistribution and creation of derivatives of the data (licenses)?
+If you cannot make all your data available, explain any strategies you will follow to make your research as reproducible as possible. For example, you may be able to share aggregated data, or to share only your metadata. 
+
+3. Regardless of whether the data will be made publicly available or not, describe how the research group will ensure that the data will be archived and preserved. In some cases the answers may overlap with question 2 (for example, if the sharing strategy you chose is also a preservation strategy). Describe the following:
+
+Identify a timeframe for how long the data will be archived and preserved.
+Explain how access to the archived data will be maintained.
+Describe the types and formats that will be preserved, and the types and formats that the investigators will retain in their possession.
