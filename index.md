@@ -39,7 +39,7 @@ D. Video metadata will be collected from the camera using Wondershare Filmora or
 
 # Storage and Security
 
-1. This section will discuss the storage of each type of data and how this data is secured from unauthorized access. 
+This section will discuss the storage of each type of data and how this data is secured from unauthorized access. 
 
 - The primary data collected is sensitive video data as defined by the Oregon State standards for sensitive data. Our informed consent has a designation which explains to the parent or guardian that the collected data may be shared publically in presentations or papers and could be made publically available if they choose to allow it. Initially, video data will not be made publically available but we will use clips and images in presentations for participants which have had informed consent given. The restricted data is stored on a Box secure server and may only be accessed by members of the team who have completed the necessary IRB training for working with human participants. This access is controlled by the research team, including myself and the PI. We will make some of the video data publically available as a dataset which can be used by others in the future but only for participants whose parent or guardian signed off on the informed consent. When working with data for children with disabilities, this data will be anonymized before it is made publically available.
 
@@ -49,7 +49,7 @@ D. Video metadata will be collected from the camera using Wondershare Filmora or
 
 # Access and Data Sharing
 
-1. Some of my data will be made public so I will discuss each type and what factors are needed to ensure the data is safe:
+Some of my data will be made public so I will discuss each type and what factors are needed to ensure the data is safe:
 
 - Video data will be made public after primary data collection is completed in 2-3 years as part of a dataset which can be used by other researchers. The video data will be made available in Databrary under their authorized access framework. Until this data is made public (which will be only after the primary data collection has been completed), this data can only be accessed by members of the research team who have been certified in the necessary IRB trainings. Trimmed video content will be the version which is made public so that it will not contain extraneous data before or after the study time.
 
@@ -61,7 +61,7 @@ D. Video metadata will be collected from the camera using Wondershare Filmora or
 
 # Archiving and Preservation
 
-1. Data will stored and preserved depending on the type of data. Different guidelines will be used for different types of data:
+Data will stored and preserved depending on the type of data. Different guidelines will be used for different types of data:
 
 - Video and accelerometer data will be collected and archived in a secure OSU Box server for at least 5 years post-collection. It will additionally be stored on a local secure password-protected hard drive which is maintained by my collaborators in Kinesiology. This ensures the data can be accessed in two secure locations for future data analysis and referred back to if needed. The video data is stored as MP4 files and the accelerometer data is stored as csv spreadsheets. The formats are the same in both locations.
 
