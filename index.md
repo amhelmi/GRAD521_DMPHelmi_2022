@@ -39,7 +39,7 @@ D. Video metadata will be collected from the camera using Wondershare Filmora or
 
 # Storage and Security
 
-This section will discuss the storage of each type of data and how this data is secured from unauthorized access. 
+This section will discuss the storage of each type of data and how this data is secured from unauthorized access: 
 
 - The primary data collected is sensitive video data as defined by the Oregon State standards for sensitive data. Our informed consent has a designation which explains to the parent or guardian that the collected data may be shared publically in presentations or papers and could be made publically available if they choose to allow it. Initially, video data will not be made publically available but we will use clips and images in presentations for participants which have had informed consent given. The restricted data is stored on a Box secure server and may only be accessed by members of the team who have completed the necessary IRB training for working with human participants. This access is controlled by the research team, including myself and the PI. We will make some of the video data publically available as a dataset which can be used by others in the future but only for participants whose parent or guardian signed off on the informed consent. When working with data for children with disabilities, this data will be anonymized before it is made publically available.
 
